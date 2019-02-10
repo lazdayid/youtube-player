@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YT Player</string>
+    <string name="intent_title">TITLE</string>
+    <string name="intent_key">KEY</string>
+</resources>
